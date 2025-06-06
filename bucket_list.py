@@ -222,7 +222,7 @@ def main():
     # GitHub 아이콘 링크 추가
     st.markdown(f"""
     <div style="text-align: center; margin-top: 30px;">
-        <a href="https://github.com/your_username" target="_blank" style="display: inline-block;">
+        <a href="https://github.com/zzola1453" target="_blank" style="display: inline-block;">
             <div style="
                 width: 48px;
                 height: 48px;
