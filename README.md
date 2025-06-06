@@ -79,20 +79,20 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-4. 애플리케이션 실행
+### 4. 애플리케이션 실행
 ```bash
 streamlit run bucket_list.py
 ```
 명령어 실행 후 기본 웹 브라우저가 자동으로 열리며, 버킷 리스트 앱이 표시됩니다.
 
-5. 기타 정보 및 주의사항
+### 5. 기타 정보 및 주의사항
 인터넷 연결이 필요하지 않으며, 로컬에서 Streamlit 서버가 실행됩니다.
 
 Windows, macOS, Linux 등 주요 운영체제에서 동일하게 실행 가능합니다.
 
 앱 실행 중 궁금한 점이나 오류 발생 시, 아래 연락처로 문의해주세요.
 
-GitHub 및 문의
+### 6. GitHub 및 문의
 저장소 주소: https://github.com/zzola1453/OSS_02
 
 개발자 이메일: seongtaek0408@gmail.com
