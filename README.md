@@ -54,27 +54,16 @@ Python 3.7 이상 버전이 필요합니다.
 
 > **중요:** 두 파일 모두 반드시 있어야 애플리케이션이 정상 작동합니다.
 
-### 3. 가상환경(권장) 및 패키지 설치
+### 3. 패키지 설치
 
-가상환경 생성 및 활성화(권장)  
-
-- **Windows (PowerShell):**
-    ```bash
-    python -m venv venv
-    .\venv\Scripts\Activate.ps1
-    ```
-- **macOS/Linux:**
-    ```bash
-    python3 -m venv venv
-    source venv/bin/activate
-    ```
+명령 프롬프트(cmd창)을 여셔서 현재 파일이 있는 위치로 이동하셔야합니다.
 
 pip 최신 버전으로 업그레이드 (권장)  
 ```bash
 pip install --upgrade pip
 ```
-필요 패키지 설치
 
+필요 패키지 설치
 ```bash
 pip install -r requirements.txt
 ```
@@ -86,7 +75,6 @@ streamlit run bucket_list.py
 명령어 실행 후 기본 웹 브라우저가 자동으로 열리며, 버킷 리스트 앱이 표시됩니다.
 
 ---
-
 ## 기타 정보 및 주의사항
 인터넷 연결이 필요하지 않으며, 로컬에서 Streamlit 서버가 실행됩니다.
 
@@ -94,6 +82,7 @@ Windows, macOS, Linux 등 주요 운영체제에서 동일하게 실행 가능�
 
 앱 실행 중 궁금한 점이나 오류 발생 시, 아래 연락처로 문의해주세요.
 
+---
 ## GitHub 및 문의
 저장소 주소: https://github.com/zzola1453/OSS_02
 
